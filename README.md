@@ -1,4 +1,4 @@
-# PowerBI_Dashboard_Project
+# PowerBI_Supply_Chain_Report_Project
 
 ## Project Overview
 This project involves creating an end-to-end Power BI sales reporting dashboard that visualizes key sales metrics, supply‑chain performance, and business insights for decision‑making.

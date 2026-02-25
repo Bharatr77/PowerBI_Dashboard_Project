@@ -40,6 +40,5 @@ This project involves creating an end-to-end Power BI sales reporting dashboar
 - Visualizing sales trends helped identify seasonal spikes and under‑performing products.
 - Supply‑chain analytics revealed bottlenecks in order processing.
 - Importance of proper data modeling for efficient reporting.
-<img width="1488" height="886" alt="image" src="https://github.com/user-attachments/assets/9599d7f2-bae4-42c9-b91a-b0bb04bd6728" />
 
 <img width="1558" height="841" alt="image" src="https://github.com/user-attachments/assets/4cb5cbd8-adc9-4923-ab1a-67f5ad92744f" />
